@@ -4,175 +4,6 @@
     <array>
         <dict>
             <key>category</key>
-            <string>News</string>
-            <key>title</key>
-            <string>Twitter</string>
-            <key>scheme</key>
-            <string>twitter</string>
-            <key>url</key>
-            <string>https://apps.apple.com/us/app/twitter/id333903271</string>
-            <key>image</key>
-            <string>https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/56/d9/7f/56d97f69-5505-659b-53f5-b796da0ae4d4/ProductionAppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x0w.webp</string>
-        </dict>
-        <dict>
-            <key>category</key>
-            <string>News</string>
-            <key>title</key>
-            <string>Reddit</string>
-            <key>scheme</key>
-            <string>reddit</string>
-            <key>url</key>
-            <string>https://apps.apple.com/us/app/reddit/id1064216828</string>
-            <key>image</key>
-            <string>https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/16/89/d9/1689d991-583e-9ae2-ec72-c5e1aaef3fde/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x0w.webp</string>
-        </dict>
-        <dict>
-            <key>category</key>
-            <string>News</string>
-            <key>title</key>
-            <string>News Break</string>
-            <key>scheme</key>
-            <string>newsbreak</string>
-            <key>url</key>
-            <string>https://apps.apple.com/us/app/news-break-local-stories-app/id1132762804</string>
-            <key>image</key>
-            <string>https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/c5/1b/d9/c51bd9ef-3343-f160-ca53-7844eeb281ec/AppIconNewsBreak-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x0w.webp</string>
-        </dict>
-        <dict>
-            <key>category</key>
-            <string>News</string>
-            <key>title</key>
-            <string>CNN</string>
-            <key>scheme</key>
-            <string>cnn</string>
-            <key>url</key>
-            <string>https://apps.apple.com/us/app/cnn-breaking-us-world-news/id331786748</string>
-            <key>image</key>
-            <string>https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/61/6a/42/616a4206-280e-f75e-7064-1e34a56e0ea4/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x0w.webp</string>
-        </dict>
-        <dict>
-            <key>category</key>
-            <string>News</string>
-            <key>title</key>
-            <string>Nextdoor</string>
-            <key>scheme</key>
-            <string>com.nextdoor.ios.v4</string>
-            <key>url</key>
-            <string>https://apps.apple.com/us/app/nextdoor-local-neighborhood/id640360962</string>
-            <key>image</key>
-            <string>https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/ab/3e/bf/ab3ebf54-17d0-10d1-99e6-b43560650a40/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x0w.webp</string>
-        </dict>
-        <dict>
-            <key>category</key>
-            <string>News</string>
-            <key>title</key>
-            <string>Citizen</string>
-            <key>scheme</key>
-            <string>citizen</string>
-            <key>url</key>
-            <string>https://apps.apple.com/us/app/citizen-connect-and-stay-safe/id1039889567</string>
-            <key>image</key>
-            <string>https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/be/22/14/be22145f-319a-f439-bf52-6a09e05d7b80/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x0w.webp</string>
-        </dict>
-        <dict>
-            <key>category</key>
-            <string>News</string>
-            <key>title</key>
-            <string>SmartNews</string>
-            <key>scheme</key>
-            <string>smartnews</string>
-            <key>url</key>
-            <string>https://apps.apple.com/us/app/smartnews-local-breaking-news/id579581125</string>
-            <key>image</key>
-            <string>https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/cf/75/f4/cf75f4f2-80b5-5a0d-2ea3-64f177036f2a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x0w.webp</string>
-        </dict>
-        <dict>
-            <key>category</key>
-            <string>News</string>
-            <key>title</key>
-            <string>Fox News</string>
-            <key>scheme</key>
-            <string>foxnews</string>
-            <key>url</key>
-            <string>https://apps.apple.com/us/app/fox-news-live-breaking-news/id367623543</string>
-            <key>image</key>
-            <string>https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/f8/d5/bb/f8d5bb41-3212-a7c3-d570-c3ed389c75d8/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x0w.webp</string>
-        </dict>
-        <dict>
-            <key>category</key>
-            <string>News</string>
-            <key>title</key>
-            <string>The New York Times</string>
-            <key>scheme</key>
-            <string>NYTimes</string>
-            <key>url</key>
-            <string>https://apps.apple.com/fm/app/the-new-york-times/id284862083</string>
-            <key>image</key>
-            <string>https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/6d/4f/f9/6d4ff917-8c52-accc-ee70-a43b28c77bb6/release-app-icons-1x_U007emarketing-0-10-0-0-85-220.png/1024x0w.webp</string>
-        </dict>
-        <dict>
-            <key>category</key>
-            <string>News</string>
-            <key>title</key>
-            <string>Police Scanner, Fire Radio</string>
-            <key>scheme</key>
-            <string>scannerradio</string>
-            <key>url</key>
-            <string>https://apps.apple.com/us/app/police-scanner-radio-fire/id498405045</string>
-            <key>image</key>
-            <string>https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/fc/1f/e4/fc1fe499-791a-fd68-e0e5-53cc235ee51e/AppIcon-2-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x0w.webp</string>
-        </dict>
-        <dict>
-            <key>category</key>
-            <string>News</string>
-            <key>title</key>
-            <string>Podbean Podcast App</string>
-            <key>scheme</key>
-            <string>podbean</string>
-            <key>url</key>
-            <string>https://apps.apple.com/us/app/podbean-podcast-app-player/id973361050</string>
-            <key>image</key>
-            <string>https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/0c/d9/c2/0cd9c29b-c907-0ecf-d951-e0b2acdc3afe/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x0w.webp</string>
-        </dict>
-        <dict>
-            <key>category</key>
-            <string>News</string>
-            <key>title</key>
-            <string>CBS News</string>
-            <key>scheme</key>
-            <string>CBS</string>
-            <key>url</key>
-            <string>https://apps.apple.com/us/app/cbs-news-live-breaking-news/id334256223</string>
-            <key>image</key>
-            <string>https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/b7/da/96/b7da9606-3104-bd17-3e04-e2d13fa1a442/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x0w.webp</string>
-        </dict>
-        <dict>
-            <key>category</key>
-            <string>News</string>
-            <key>title</key>
-            <string>The Podcast App</string>
-            <key>scheme</key>
-            <string>podcastapp</string>
-            <key>url</key>
-            <string>https://apps.apple.com/us/app/apple-podcasts/id525463029</string>
-            <key>image</key>
-            <string>https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/f5/01/c7/f501c751-6fbe-cf1f-3357-35d22ffb9018/AppIcon-1x_U007emarketing-0-10-0-85-220.png/1024x0w.webp</string>
-        </dict>
-        <dict>
-            <key>category</key>
-            <string>News</string>
-            <key>title</key>
-            <string>NBC News</string>
-            <key>scheme</key>
-            <string>nbcnews</string>
-            <key>url</key>
-            <string>https://apps.apple.com/us/app/nbc-news-breaking-us-news/id319740707</string>
-            <key>image</key>
-            <string>https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/f9/fe/23/f9fe2349-eeeb-fd2c-6091-749ee32c6a60/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/1024x0w.webp</string>
-            
-        </dict>
-        <dict>
-            <key>category</key>
             <string>Entertainment</string>
             <key>title</key>
             <string>TikTok</string>
@@ -386,7 +217,7 @@
             <string>https://apps.apple.com/us/app/starz/id550221096</string>
             <key>image</key>
             <string>https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/2a/c7/d7/2ac7d7d3-2f83-ffbd-d063-c6cb3c03501a/AppIcon-1x_U007emarketing-0-10-0-85-220.png/1024x0w.webp</string>
-            
+
         </dict>
         <dict>
             <key>category</key>
@@ -495,7 +326,7 @@
             <string>https://apps.apple.com/us/app/clash-of-clans/id529479190</string>
             <key>image</key>
             <string>https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/35/49/17/3549177c-bd72-937b-1561-7d6afb833be1/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x0w.webp</string>
-            
+
         </dict>
         <dict>
             <key>category</key>
@@ -604,7 +435,7 @@
             <string>https://apps.apple.com/us/app/lose-it-calorie-counter/id297368629</string>
             <key>image</key>
             <string>https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/e8/87/65/e8876593-e9cd-8094-2fce-7dbfb73caf69/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x0w.webp</string>
-            
+
         </dict>
         <dict>
             <key>category</key>
@@ -725,7 +556,7 @@
             <string>https://apps.apple.com/us/app/big-ten-network/id474679690</string>
             <key>image</key>
             <string>https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/72/f3/8b/72f38b6d-f15d-4389-fcfc-90c1af8bc710/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x0w.webp</string>
-            
+
         </dict>
         <dict>
             <key>category</key>
