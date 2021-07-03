@@ -1,126 +1,6 @@
 {
   "categories": [
     {
-      "name": "Daily Inspiration",
-      "watches": [
-        {
-          "status": "paid",
-          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/DailyInspiration/Daily_Inspiration1.png",
-          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/DailyInspiration/Daily_Inspiration1.png"
-        },
-        {
-          "status": "paid",
-          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/DailyInspiration/Daily_Inspiration10.png",
-          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/DailyInspiration/Daily_Inspiration10.png"
-        },
-        {
-          "status": "paid",
-          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/DailyInspiration/Daily_Inspiration11.png",
-          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/DailyInspiration/Daily_Inspiration11.png"
-        },
-        {
-          "status": "paid",
-          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/DailyInspiration/Daily_Inspiration12.png",
-          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/DailyInspiration/Daily_Inspiration12.png"
-        },
-        {
-          "status": "paid",
-          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/DailyInspiration/Daily_Inspiration13.png",
-          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/DailyInspiration/Daily_Inspiration13.png"
-        },
-        {
-          "status": "paid",
-          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/DailyInspiration/Daily_Inspiration14.png",
-          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/DailyInspiration/Daily_Inspiration14.png"
-        },
-        {
-          "status": "paid",
-          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/DailyInspiration/Daily_Inspiration15.png",
-          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/DailyInspiration/Daily_Inspiration15.png"
-        },
-        {
-          "status": "paid",
-          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/DailyInspiration/Daily_Inspiration16.png",
-          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/DailyInspiration/Daily_Inspiration16.png"
-        },
-        {
-          "status": "paid",
-          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/DailyInspiration/Daily_Inspiration2.png",
-          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/DailyInspiration/Daily_Inspiration2.png"
-        },
-        {
-          "status": "paid",
-          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/DailyInspiration/Daily_Inspiration3.png",
-          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/DailyInspiration/Daily_Inspiration3.png"
-        },
-        {
-          "status": "paid",
-          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/DailyInspiration/Daily_Inspiration4.png",
-          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/DailyInspiration/Daily_Inspiration4.png"
-        },
-        {
-          "status": "paid",
-          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/DailyInspiration/Daily_Inspiration5.png",
-          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/DailyInspiration/Daily_Inspiration5.png"
-        },
-        {
-          "status": "paid",
-          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/DailyInspiration/Daily_Inspiration6.png",
-          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/DailyInspiration/Daily_Inspiration6.png"
-        },
-        {
-          "status": "paid",
-          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/DailyInspiration/Daily_Inspiration7.png",
-          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/DailyInspiration/Daily_Inspiration7.png"
-        },
-        {
-          "status": "paid",
-          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/DailyInspiration/Daily_Inspiration8.png",
-          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/DailyInspiration/Daily_Inspiration8.png"
-        },
-        {
-          "status": "paid",
-          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/DailyInspiration/Daily_Inspiration9.png",
-          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/DailyInspiration/Daily_Inspiration9.png"
-        }
-      ]
-    },
-    {
-      "name": "New",
-      "watches": [
-        {
-          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/New/face1.jpg",
-          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/New/face1.jpg",
-          "status": "paid"
-        },
-        {
-          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/New/face2.jpg",
-          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/New/face2.jpg",
-          "status": "paid"
-        },
-        {
-          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/New/face3.jpg",
-          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/New/face3.jpg",
-          "status": "paid"
-        },
-        {
-          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/New/face4.jpg",
-          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/New/face4.jpg",
-          "status": "paid"
-        },
-        {
-          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/New/face5.jpg",
-          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/New/face5.jpg",
-          "status": "paid"
-        },
-        {
-          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/New/face6.gif",
-          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/New/face6.gif",
-          "status": "paid"
-        }
-      ]
-    },
-    {
       "name": "Exclusive",
       "watches": [
         {
@@ -284,6 +164,156 @@
           "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Exclusive/face27.watchface",
           "status": "paid",
           "isClockType": true
+        }
+      ]
+    },
+    {
+      "name": "Flags",
+      "watches": [
+        {
+          "status": "paid",
+          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Flags/Flags1.png",
+          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Flags/Flags1.png"
+        },
+        {
+          "status": "paid",
+          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Flags/Flags10.png",
+          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Flags/Flags10.png"
+        },
+        {
+          "status": "paid",
+          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Flags/Flags2.png",
+          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Flags/Flags2.png"
+        },
+        {
+          "status": "paid",
+          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Flags/Flags3.png",
+          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Flags/Flags3.png"
+        },
+        {
+          "status": "paid",
+          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Flags/Flags4.png",
+          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Flags/Flags4.png"
+        },
+        {
+          "status": "paid",
+          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Flags/Flags5.png",
+          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Flags/Flags5.png"
+        },
+        {
+          "status": "paid",
+          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Flags/Flags6.png",
+          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Flags/Flags6.png"
+        },
+        {
+          "status": "paid",
+          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Flags/Flags7.png",
+          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Flags/Flags7.png"
+        },
+        {
+          "status": "paid",
+          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Flags/Flags8.png",
+          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Flags/Flags8.png"
+        },
+        {
+          "status": "paid",
+          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Flags/Flags9.png",
+          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Flags/Flags9.png"
+        }
+      ]
+    },
+    {
+      "name": "Nature",
+      "watches": [
+        {
+          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Nature/face1.jpg",
+          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Nature/face1.jpg",
+          "status": "paid"
+        },
+        {
+          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Nature/face2.jpg",
+          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Nature/face2.jpg",
+          "status": "paid"
+        },
+        {
+          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Nature/face3.jpg",
+          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Nature/face3.jpg",
+          "status": "paid"
+        },
+        {
+          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Nature/face4.jpg",
+          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Nature/face4.jpg",
+          "status": "paid"
+        },
+        {
+          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Nature/face5.jpg",
+          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Nature/face5.jpg",
+          "status": "paid"
+        },
+        {
+          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Nature/face6.jpg",
+          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Nature/face6.jpg",
+          "status": "paid"
+        },
+        {
+          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Nature/face7.jpg",
+          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Nature/face7.jpg",
+          "status": "paid"
+        },
+        {
+          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Nature/face8.jpg",
+          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Nature/face8.jpg",
+          "status": "paid"
+        },
+        {
+          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Nature/face9.jpg",
+          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Nature/face9.jpg",
+          "status": "paid"
+        },
+        {
+          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Nature/face10.jpg",
+          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Nature/face10.jpg",
+          "status": "paid"
+        },
+        {
+          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Nature/face11.jpg",
+          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Nature/face11.jpg",
+          "status": "paid"
+        },
+        {
+          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Nature/face12.jpg",
+          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Nature/face12.jpg",
+          "status": "paid"
+        },
+        {
+          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Nature/face13.jpg",
+          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Nature/face13.jpg",
+          "status": "paid"
+        },
+        {
+          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Nature/face14.jpg",
+          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Nature/face14.jpg",
+          "status": "paid"
+        },
+        {
+          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Nature/face15.jpg",
+          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Nature/face15.jpg",
+          "status": "paid"
+        },
+        {
+          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Nature/face16.jpg",
+          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Nature/face16.jpg",
+          "status": "paid"
+        },
+        {
+          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Nature/face17.jpg",
+          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Nature/face17.jpg",
+          "status": "paid"
+        },
+        {
+          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Nature/face18.jpg",
+          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Nature/face18.jpg",
+          "status": "paid"
         }
       ]
     },
@@ -1339,156 +1369,6 @@
           "status": "paid",
           "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Exceptional/Exceptional9.png",
           "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Exceptional/Exceptional9.png"
-        }
-      ]
-    },
-    {
-      "name": "Flags",
-      "watches": [
-        {
-          "status": "paid",
-          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Flags/Flags1.png",
-          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Flags/Flags1.png"
-        },
-        {
-          "status": "paid",
-          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Flags/Flags10.png",
-          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Flags/Flags10.png"
-        },
-        {
-          "status": "paid",
-          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Flags/Flags2.png",
-          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Flags/Flags2.png"
-        },
-        {
-          "status": "paid",
-          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Flags/Flags3.png",
-          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Flags/Flags3.png"
-        },
-        {
-          "status": "paid",
-          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Flags/Flags4.png",
-          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Flags/Flags4.png"
-        },
-        {
-          "status": "paid",
-          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Flags/Flags5.png",
-          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Flags/Flags5.png"
-        },
-        {
-          "status": "paid",
-          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Flags/Flags6.png",
-          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Flags/Flags6.png"
-        },
-        {
-          "status": "paid",
-          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Flags/Flags7.png",
-          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Flags/Flags7.png"
-        },
-        {
-          "status": "paid",
-          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Flags/Flags8.png",
-          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Flags/Flags8.png"
-        },
-        {
-          "status": "paid",
-          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Flags/Flags9.png",
-          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Flags/Flags9.png"
-        }
-      ]
-    },
-    {
-      "name": "Nature",
-      "watches": [
-        {
-          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Nature/face1.jpg",
-          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Nature/face1.jpg",
-          "status": "paid"
-        },
-        {
-          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Nature/face2.jpg",
-          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Nature/face2.jpg",
-          "status": "paid"
-        },
-        {
-          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Nature/face3.jpg",
-          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Nature/face3.jpg",
-          "status": "paid"
-        },
-        {
-          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Nature/face4.jpg",
-          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Nature/face4.jpg",
-          "status": "paid"
-        },
-        {
-          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Nature/face5.jpg",
-          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Nature/face5.jpg",
-          "status": "paid"
-        },
-        {
-          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Nature/face6.jpg",
-          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Nature/face6.jpg",
-          "status": "paid"
-        },
-        {
-          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Nature/face7.jpg",
-          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Nature/face7.jpg",
-          "status": "paid"
-        },
-        {
-          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Nature/face8.jpg",
-          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Nature/face8.jpg",
-          "status": "paid"
-        },
-        {
-          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Nature/face9.jpg",
-          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Nature/face9.jpg",
-          "status": "paid"
-        },
-        {
-          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Nature/face10.jpg",
-          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Nature/face10.jpg",
-          "status": "paid"
-        },
-        {
-          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Nature/face11.jpg",
-          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Nature/face11.jpg",
-          "status": "paid"
-        },
-        {
-          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Nature/face12.jpg",
-          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Nature/face12.jpg",
-          "status": "paid"
-        },
-        {
-          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Nature/face13.jpg",
-          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Nature/face13.jpg",
-          "status": "paid"
-        },
-        {
-          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Nature/face14.jpg",
-          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Nature/face14.jpg",
-          "status": "paid"
-        },
-        {
-          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Nature/face15.jpg",
-          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Nature/face15.jpg",
-          "status": "paid"
-        },
-        {
-          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Nature/face16.jpg",
-          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Nature/face16.jpg",
-          "status": "paid"
-        },
-        {
-          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Nature/face17.jpg",
-          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Nature/face17.jpg",
-          "status": "paid"
-        },
-        {
-          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Nature/face18.jpg",
-          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Nature/face18.jpg",
-          "status": "paid"
         }
       ]
     },
@@ -6563,6 +6443,91 @@
       ]
     },
     {
+      "name": "Daily Inspiration",
+      "watches": [
+        {
+          "status": "paid",
+          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/DailyInspiration/Daily_Inspiration1.png",
+          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/DailyInspiration/Daily_Inspiration1.png"
+        },
+        {
+          "status": "paid",
+          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/DailyInspiration/Daily_Inspiration10.png",
+          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/DailyInspiration/Daily_Inspiration10.png"
+        },
+        {
+          "status": "paid",
+          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/DailyInspiration/Daily_Inspiration11.png",
+          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/DailyInspiration/Daily_Inspiration11.png"
+        },
+        {
+          "status": "paid",
+          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/DailyInspiration/Daily_Inspiration12.png",
+          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/DailyInspiration/Daily_Inspiration12.png"
+        },
+        {
+          "status": "paid",
+          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/DailyInspiration/Daily_Inspiration13.png",
+          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/DailyInspiration/Daily_Inspiration13.png"
+        },
+        {
+          "status": "paid",
+          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/DailyInspiration/Daily_Inspiration14.png",
+          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/DailyInspiration/Daily_Inspiration14.png"
+        },
+        {
+          "status": "paid",
+          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/DailyInspiration/Daily_Inspiration15.png",
+          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/DailyInspiration/Daily_Inspiration15.png"
+        },
+        {
+          "status": "paid",
+          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/DailyInspiration/Daily_Inspiration16.png",
+          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/DailyInspiration/Daily_Inspiration16.png"
+        },
+        {
+          "status": "paid",
+          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/DailyInspiration/Daily_Inspiration2.png",
+          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/DailyInspiration/Daily_Inspiration2.png"
+        },
+        {
+          "status": "paid",
+          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/DailyInspiration/Daily_Inspiration3.png",
+          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/DailyInspiration/Daily_Inspiration3.png"
+        },
+        {
+          "status": "paid",
+          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/DailyInspiration/Daily_Inspiration4.png",
+          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/DailyInspiration/Daily_Inspiration4.png"
+        },
+        {
+          "status": "paid",
+          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/DailyInspiration/Daily_Inspiration5.png",
+          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/DailyInspiration/Daily_Inspiration5.png"
+        },
+        {
+          "status": "paid",
+          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/DailyInspiration/Daily_Inspiration6.png",
+          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/DailyInspiration/Daily_Inspiration6.png"
+        },
+        {
+          "status": "paid",
+          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/DailyInspiration/Daily_Inspiration7.png",
+          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/DailyInspiration/Daily_Inspiration7.png"
+        },
+        {
+          "status": "paid",
+          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/DailyInspiration/Daily_Inspiration8.png",
+          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/DailyInspiration/Daily_Inspiration8.png"
+        },
+        {
+          "status": "paid",
+          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/DailyInspiration/Daily_Inspiration9.png",
+          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/DailyInspiration/Daily_Inspiration9.png"
+        }
+      ]
+    },
+    {
       "name": "Spring 2",
       "watches": [
         {
@@ -7144,6 +7109,41 @@
           "status": "paid",
           "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/XLargeFaces/XLargeFaces9.png",
           "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/XLargeFaces/XLargeFaces9.png"
+        }
+      ]
+    },
+    {
+      "name": "New",
+      "watches": [
+        {
+          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/New/face1.jpg",
+          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/New/face1.jpg",
+          "status": "paid"
+        },
+        {
+          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/New/face2.jpg",
+          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/New/face2.jpg",
+          "status": "paid"
+        },
+        {
+          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/New/face3.jpg",
+          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/New/face3.jpg",
+          "status": "paid"
+        },
+        {
+          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/New/face4.jpg",
+          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/New/face4.jpg",
+          "status": "paid"
+        },
+        {
+          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/New/face5.jpg",
+          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/New/face5.jpg",
+          "status": "paid"
+        },
+        {
+          "url_mini": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/New/face6.gif",
+          "url_full": "https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/New/face6.gif",
+          "status": "paid"
         }
       ]
     },
